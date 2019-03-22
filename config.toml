@@ -1,6 +1,6 @@
-baseurl = "https://example.org/"
+baseurl = "http://hernandezcloud.local/"
 languageCode = "en-us"
-title = "John Doe's blog"
+title = "Luis' blog"
 # Define how many pages appear per site
 paginate = 10
 # Enable comments powered by Disqus by entering your disqus shortname
@@ -15,7 +15,7 @@ theme = "hugo-minimalist-theme"
     location = "Earth"
     # Link custom assets relative to /static
     avatar = "img/luis-reduced.jpg"
-    header_background = "/img/caltech.png"
+    header_background = "img/caltech.png"
     header_title = "My cool site"
     copyright = "Powered by [Hugo](http://gohugo.io)."
     custom_css = []
