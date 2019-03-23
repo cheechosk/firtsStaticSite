@@ -1,4 +1,4 @@
-baseurl = "https://www.hackalatte.com/"
+baseurl = "https://hackalatte.com/"
 languageCode = "en-us"
 title = "Luis' blog"
 # Define how many pages appear per site
@@ -10,8 +10,8 @@ googleAnalytics = ""
 theme = "hugo-minimalist-theme"
 
 [params]
-    site_author = "John Doe"
-    site_description = "The awesome blog of John Doe."
+    site_author = "Luis Hernandez"
+    site_description = "Luis'site"
     location = "Earth"
     # Link custom assets relative to /static
     avatar = "img/luis-reduced.jpg"
