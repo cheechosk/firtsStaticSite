@@ -1,4 +1,4 @@
-baseurl = "http://www.hackalatte.com/"
+baseurl = "https://www.hackalatte.com/"
 languageCode = "en-us"
 title = "Luis' blog"
 # Define how many pages appear per site
